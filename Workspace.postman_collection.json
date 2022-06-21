@@ -121,7 +121,7 @@
 							"",
 							"// Assert Environment ",
 							"pm.test(\"Verify Environment\",() =>{",
-							"    pm.expect(pm.environment.name).to.equal(\"QA\")",
+							"    pm.expect(pm.environment.name).to.equal(\"QAEnv\")",
 							"})",
 							"",
 							"// Validate Response Structure ",
